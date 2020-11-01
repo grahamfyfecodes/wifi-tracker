@@ -9,5 +9,4 @@ public class WifiTrackerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WifiTrackerApplication.class, args);
 	}
-
 }
